@@ -77,10 +77,10 @@ De abajo a arriba:
 
   * Conectividad LTE
   * WiFi deshabilitado (uso exclusivo como backup WAN)
-  * 👉 [AMAZON] (https://www.amazon.es/Cudy-LT300-Compatible-operadores-Configuraci%C3%B3n/dp/B0DD3WC9MB/ref=sr_1_7?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=12DA3TDQ7YK6I&dib=eyJ2IjoiMSJ9.TfF0MAqVnBqaPtJwWcjVfIIRZ2_fFFcRC8cyB7MQfF8GuoG3n4yXN3G7WZ-zAbgB5lBQ4cCi4s_XdrWj_KBQmnWAtfE1SVh_P3uG2jFO5n8uHKy0KVyGvR2O3RVH5TaMUqxFWj4C2U9wDGh7z0W-SA.2LE9A3RiFuKkv4qE-R9zrcf4tw2A9P9YEgL27M_pTFk&dib_tag=se&keywords=cuddy+4g&qid=1777833746&sprefix=cuddy+4%2Caps%2C128&sr=8-7)
+  * 👉 [AMAZON](https://www.amazon.es/Cudy-LT300-Compatible-operadores-Configuraci%C3%B3n/dp/B0DD3WC9MB/ref=sr_1_7?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=12DA3TDQ7YK6I&dib=eyJ2IjoiMSJ9.TfF0MAqVnBqaPtJwWcjVfIIRZ2_fFFcRC8cyB7MQfF8GuoG3n4yXN3G7WZ-zAbgB5lBQ4cCi4s_XdrWj_KBQmnWAtfE1SVh_P3uG2jFO5n8uHKy0KVyGvR2O3RVH5TaMUqxFWj4C2U9wDGh7z0W-SA.2LE9A3RiFuKkv4qE-R9zrcf4tw2A9P9YEgL27M_pTFk&dib_tag=se&keywords=cuddy+4g&qid=1777833746&sprefix=cuddy+4%2Caps%2C128&sr=8-7)
 
 * **Pantalla LCD 7”**
-  👉 [ALIEXPRESS] (https://es.aliexpress.com/item/1005002570180532.html)
+  👉 [ALIEXPRESS](https://es.aliexpress.com/item/1005002570180532.html)
 
   * Conectada mediante adaptador USB → HDMI
   * Usada como interfaz local del sistema
