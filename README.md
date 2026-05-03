@@ -1,7 +1,7 @@
 # ACNET Steampunk Lab
 
 <p align="center">
-  <img src="FRONT1.JPG" width="400"/>
+  <img src="FRONT1.JPG" width="300"/>
   <img src="logo.png" width="400"/>
   <img src="rack_front.jpg" width="300"/>
 </p>
