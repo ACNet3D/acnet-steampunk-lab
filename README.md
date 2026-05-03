@@ -36,7 +36,7 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 
 ## 🏗️ Diseño e Impresión
 
-* Diseñado en **Onshape**
+* Diseñado en [**Onshape**](https://onshape.pro/sharehorizons)
 * Desarrollo apoyado por la comunidad **[SHARE HORIZONS](https://sharehorizons.com/)**
 * Impreso con:
 
@@ -62,10 +62,12 @@ Colores:
 De abajo a arriba:
 
 * **Ubiquiti UniFi Express**
-  Firewall + punto de acceso WiFi 6
+  * Firewall + punto de acceso WiFi 6
+  * [Producto](https://eu.store.ui.com/eu/es/products/ux)
 
 * **Ubiquiti USW Ultra 210W**
-  Switch gestionable de 8 puertos
+  * Switch gestionable de 8 puertos
+  * [Producto](https://eu.store.ui.com/eu/es/category/switching-utility/collections/pro-ultra/products/usw-ultra-210w?c=ES)
 
 * **Intel NUC12WSK (i5-1240P)**
 
