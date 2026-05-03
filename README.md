@@ -1,153 +1,213 @@
 # ACNET Steampunk Lab
 
-> *3D-printed modular homelab combining networking, virtualization and integrated control in a steampunk-inspired design.*
+> *Homelab modular impreso en 3D que combina red, virtualización y control integrado en un diseño inspirado en el steampunk.*
 
 ---
 
-## 🧠 Overview
-
-ACNET Steampunk Lab is a compact, fully functional homelab built inside a custom 3D-printed rack, combining real infrastructure with a strong steampunk aesthetic.
-
-Designed and built from scratch, this project integrates networking, virtualization and local control into a single standalone unit.
+🇪🇸 Español | 🇬🇧 English
 
 ---
 
-## 🔥 Highlights
+# 🇪🇸 Español
 
-* 🧱 Fully custom **3D-printed structure** (PETG + PLA)
-* 🌐 Segmented network with **VLANs and WiFi SSIDs**
-* 🖥️ **Proxmox host** running multiple services
-* 🧰 Integrated **control node (Windows 11 + LCD)**
-* 🎨 Steampunk design with **copper, matte black and neon accents**
-* 🚫 Network-wide ad blocking with **Pi-hole**
+## 🧠 Descripción
 
----
+ACNET Steampunk Lab es un homelab compacto y completamente funcional, construido dentro de un rack diseñado e impreso en 3D, combinando infraestructura real con una estética steampunk.
 
-## 📸 Preview
-
-![Rack Front](images/rack_front.jpg)
-![Rack Interior](images/rack_inside.jpg)
-![LCD Control](images/lcd.jpg)
+Este proyecto integra red, virtualización y control local en una única unidad autónoma.
 
 ---
 
-## 🏗️ Design & Manufacturing
+## 🔥 Características
 
-* Designed in **Onshape**
-* Developed with support from the **SHARE HORIZONS community**
-* Printed using:
+* 🧱 Estructura **100% diseñada e impresa en 3D** (PETG + PLA)
+* 🌐 Red segmentada con **VLANs y SSIDs**
+* 🖥️ **Servidor Proxmox** con múltiples servicios
+* 🧰 Nodo de **control integrado (Windows 11 + LCD)**
+* 🎨 Diseño steampunk con **cobre, negro mate y colores neón**
+* 🚫 Bloqueo de publicidad con **Pi-hole**
+
+---
+
+## 📸 Vista general
+
+![Frontal](images/rack_front.jpg)
+![Interior](images/rack_inside.jpg)
+![Pantalla](images/lcd.jpg)
+
+---
+
+## 🏗️ Diseño e Impresión
+
+* Diseñado en **Onshape**
+* Desarrollo apoyado por la comunidad **SHARE HORIZONS**
+* Impreso con:
 
   * **Bambu Lab X1C**
   * **Bambu Lab P2S**
 
-### Materials
+### Materiales
 
-* **PETG (black)** → structural base (heat resistant)
-* **PLA (colors)** → front panels and aesthetic parts
+* **PETG negro** → base estructural (resistencia térmica)
+* **PLA colores** → frontales y estética
 
-Color palette:
+Colores:
 
-* Matte black
-* Copper
-* Neon yellow
-* Cyan blue
+* Negro mate
+* Cobre
+* Amarillo neón
+* Azul cian
 
 ---
 
 ## 🧰 Hardware
 
-From bottom to top:
+De abajo a arriba:
 
-* **Ubiquiti UniFi Express** (Firewall + WiFi 6 AP)
-* **Ubiquiti USW Ultra 210W** (8-port switch)
+* **Ubiquiti UniFi Express** (Firewall + WiFi 6)
+* **Ubiquiti USW Ultra 210W** (switch)
 * **Intel NUC i5-1240P**
 
   * 32GB RAM
   * 1TB NVMe
-* **Cudy LT300 4G Router** (WiFi disabled)
-* **LCD Display** (connected via USB-HDMI)
+* **Router 4G Cudy LT300** (WiFi deshabilitado)
+* **Pantalla LCD** (USB → HDMI)
 
 ---
 
-## 🌐 Network
+## 🌐 Red
 
-* **VLAN 1 – Main**
+* **VLAN 1 – Principal**
 
   * SSID: `ACNET_HOMELAB`
 
 * **VLAN 20 – IT**
 
-  * Wired only (no WiFi)
+  * Solo cable (sin WiFi)
 
-* **VLAN 120 – Guest**
+* **VLAN 120 – Invitados**
 
   * SSID: `ACNET_GUEST`
 
-Features:
+Funciones:
 
-* VLAN segmentation
-* WiFi separation
-* Centralized routing via UniFi Express
-* Ad blocking with Pi-hole
+* Segmentación por VLAN
+* Separación de redes WiFi
+* Enrutamiento centralizado
+* Bloqueo de publicidad con Pi-hole
 
 ---
 
-## 🖥️ Server (Proxmox)
+## 🖥️ Servidor (Proxmox)
 
-Running on the Intel NUC:
+En el NUC:
 
-* 🧱 **Pi-hole** (container)
-* 📊 **Grafana** (container – planned)
+* 🧱 **Pi-hole** (contenedor)
+* 📊 **Grafana** (contenedor – en preparación)
 * 🍏 **macOS VM**
-* 🪟 **Windows 11 LTSC VM**
+* 🪟 **Windows 11 LTSC**
 
-  * Direct output to LCD
-  * Used as local control interface
-
----
-
-## 🧪 Integrated Control Node
-
-The lab includes a built-in control system:
-
-* Windows 11 VM connected to:
-
-  * LCD screen
-  * External keyboard & mouse
-* Enables **direct management from the rack itself**
+  * Salida directa a la pantalla LCD
+  * Nodo de control del sistema
 
 ---
 
-## 🎓 Learning & Community
+## 🧪 Nodo de control integrado
 
-This project was developed as part of a personal learning journey in:
+El propio rack permite su gestión directa:
 
-* 3D design (Onshape)
-* Networking & segmentation
-* Virtualization (Proxmox)
+* Windows 11 conectado a:
 
-With inspiration and support from:
+  * Pantalla LCD
+  * Teclado y ratón
+* Control completo sin necesidad de otro equipo
+
+---
+
+## 🎓 Aprendizaje y comunidad
+
+Proyecto desarrollado como parte de aprendizaje en:
+
+* Diseño 3D (Onshape)
+* Redes y segmentación
+* Virtualización (Proxmox)
+
+Con apoyo de:
 
 👉 SHARE HORIZONS
-(YouTube link coming soon)
+(link YouTube próximamente)
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Mejoras futuras
 
-* Grafana dashboards for monitoring
-* More automation
-* Improved cable management
-* Version 2 of the rack design
+* Dashboards en Grafana
+* Automatización
+* Mejora de cableado
+* Nueva versión del diseño
+
+---
+
+## 📍 Contexto
+
+Proyecto presentado en la **3D Printer Party**.
+
+---
+
+# 🇬🇧 English
+
+## 🧠 Overview
+
+ACNET Steampunk Lab is a compact and fully functional homelab built inside a custom 3D-printed rack, combining real infrastructure with a steampunk-inspired design.
+
+It integrates networking, virtualization and local control into a single standalone unit.
+
+---
+
+## 🔥 Highlights
+
+* 🧱 Fully custom **3D-printed structure**
+* 🌐 Segmented network with **VLANs and SSIDs**
+* 🖥️ **Proxmox host**
+* 🧰 Integrated **control node (Windows + LCD)**
+* 🎨 Steampunk aesthetic with neon accents
+* 🚫 Network-wide ad blocking (Pi-hole)
+
+---
+
+## 🧰 Hardware
+
+* Ubiquiti UniFi Express (Firewall + AP)
+* Ubiquiti USW Ultra 210W
+* Intel NUC i5-1240P (32GB / 1TB)
+* Cudy LT300 4G Router (WiFi disabled)
+* LCD display (USB-HDMI)
+
+---
+
+## 🌐 Network
+
+* VLAN 1 – Main (`ACNET_HOMELAB`)
+* VLAN 20 – IT (wired only)
+* VLAN 120 – Guest (`ACNET_GUEST`)
+
+---
+
+## 🖥️ Server
+
+* Pi-hole (container)
+* Grafana (planned)
+* macOS VM
+* Windows 11 LTSC (local control)
 
 ---
 
 ## 📍 About
 
-Built as a personal homelab and showcased at the **3D Printer Party**.
+Showcased at the **3D Printer Party**.
 
 ---
 
-## ⭐ If you like it...
+## ⭐ If you like it
 
-Feel free to star the repo or reach out!
+Feel free to star the repo!
