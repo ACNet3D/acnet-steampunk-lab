@@ -40,7 +40,7 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 ## 🏗️ Diseño e Impresión
 
 * Diseñado en **Onshape**
-* Desarrollo apoyado por la comunidad **SHARE HORIZONS**
+* Desarrollo apoyado por la comunidad [**SHARE HORIZONS**](https://sharehorizons.com/)
 * Impreso con:
 
   * **Bambu Lab X1C**
@@ -134,8 +134,7 @@ Proyecto desarrollado como parte de aprendizaje en:
 
 Con apoyo de:
 
-👉 SHARE HORIZONS
-(link YouTube próximamente)
+👉 [**SHARE HORIZONS**](https://sharehorizons.com/)
 
 ---
 
