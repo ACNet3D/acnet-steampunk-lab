@@ -87,6 +87,36 @@ De abajo a arriba:
   * Conectada mediante adaptador USB → HDMI
   * Usada como interfaz local del sistema
 
+---
+
+## ⚡ Consumo estimado
+
+El consumo total del ACNET Steampunk Lab depende principalmente de la carga del NUC, el uso de la pantalla LCD y la actividad de red.
+
+### 🔌 Consumo por dispositivo (estimado)
+
+| Equipo                  | Consumo aprox. | Nota                            |
+| ----------------------- | -------------: | ------------------------------- |
+| UniFi Express           | hasta **10 W** | dato fabricante                 |
+| USW Ultra 210W          |        **8 W** | sin dispositivos PoE conectados |
+| Intel NUC12WSK i5-1240P |    **15–45 W** | según carga de CPU y VMs        |
+| Cudy LT300 4G           |      **3–8 W** | 3 W idle / hasta 8 W            |
+| Pantalla LCD 7”         |      **4–8 W** | estimación típica               |
+| Adaptador USB-HDMI      |      **1–3 W** | estimación                      |
+
+---
+
+### 📊 Consumo total
+
+| Escenario           | Consumo estimado |
+| ------------------- | ---------------: |
+| Reposo / uso ligero |      **35–45 W** |
+| Uso normal          |      **45–65 W** |
+| Pico de carga       |      **75–90 W** |
+
+> Valores estimados. Pendiente de validación con medidor real.
+
+---
 
 ## 🌐 Red
 
@@ -245,6 +275,34 @@ From bottom to top:
   * Connected via USB → HDMI adapter
   * Used as local control interface
 
+---
+
+## ⚡ Estimated Power Consumption
+
+The total power consumption of the ACNET Steampunk Lab mainly depends on NUC load, LCD usage and network activity.
+
+### 🔌 Per-device estimation
+
+| Device                  | Approx. Consumption | Notes                  |
+| ----------------------- | ------------------: | ---------------------- |
+| UniFi Express           |      up to **10 W** | manufacturer data      |
+| USW Ultra 210W          |             **8 W** | without PoE devices    |
+| Intel NUC12WSK i5-1240P |         **15–45 W** | depends on CPU/VM load |
+| Cudy LT300 4G           |           **3–8 W** | 3 W idle / up to 8 W   |
+| 7” LCD Display          |           **4–8 W** | typical estimate       |
+| USB-HDMI Adapter        |           **1–3 W** | estimated              |
+
+---
+
+### 📊 Total consumption
+
+| Scenario           | Estimated Consumption |
+| ------------------ | --------------------: |
+| Idle / light usage |           **35–45 W** |
+| Normal usage       |           **45–65 W** |
+| Peak load          |           **75–90 W** |
+
+> Estimated values. Pending validation with a real power meter.
 
 ---
 
