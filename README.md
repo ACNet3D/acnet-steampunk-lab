@@ -3,7 +3,7 @@
 <p align="center">
   <img src="FRONT1.JPG" width="250"/>
   <img src="logo.png" width="400"/>
-  <img src="rack_front.jpg" width="300"/>
+  <img src="rack_front.jpg" width="400"/>
 </p>
 
 > *Homelab modular impreso en 3D que combina red, virtualización y control integrado en un diseño inspirado en el steampunk.*
