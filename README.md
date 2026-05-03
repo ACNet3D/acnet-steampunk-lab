@@ -64,16 +64,29 @@ Colores:
 
 De abajo a arriba:
 
-* **Ubiquiti UniFi Express** (Firewall + WiFi 6)
-* **Ubiquiti USW Ultra 210W** (switch)
-* **Intel NUC i5-1240P**
+* **Ubiquiti UniFi Express**
+  Firewall + punto de acceso WiFi 6
+
+* **Ubiquiti USW Ultra 210W**
+  Switch gestionable de 8 puertos
+
+* **Intel NUC12WSK (i5-1240P)**
 
   * 32GB RAM
   * 1TB NVMe
-* **Router 4G Cudy LT300** (WiFi deshabilitado)
-* **Pantalla LCD** (USB → HDMI)
+  * Host de virtualización (Proxmox)
 
----
+* **Cudy LT300 4G Router**
+
+  * Conectividad LTE
+  * WiFi deshabilitado (uso exclusivo como backup WAN)
+
+* **Pantalla LCD 7”**
+  👉 https://es.aliexpress.com/item/1005002570180532.html
+
+  * Conectada mediante adaptador USB → HDMI
+  * Usada como interfaz local del sistema
+
 
 ## 🌐 Red
 
@@ -209,14 +222,29 @@ Color palette:
 
 From bottom to top:
 
-* **Ubiquiti UniFi Express** (Firewall + WiFi 6 AP)
-* **Ubiquiti USW Ultra 210W** (switch)
-* **Intel NUC i5-1240P**
+* **Ubiquiti UniFi Express**
+  Firewall + WiFi 6 access point
+
+* **Ubiquiti USW Ultra 210W**
+  Managed 8-port switch
+
+* **Intel NUC12WSK (i5-1240P)**
 
   * 32GB RAM
   * 1TB NVMe
-* **Cudy LT300 4G Router** (WiFi disabled)
-* **LCD Display** (USB → HDMI)
+  * Virtualization host (Proxmox)
+
+* **Cudy LT300 4G Router**
+
+  * LTE connectivity
+  * WiFi disabled (used as backup WAN)
+
+* **7” LCD Display**
+  👉 https://es.aliexpress.com/item/1005002570180532.html
+
+  * Connected via USB → HDMI adapter
+  * Used as local control interface
+
 
 ---
 
