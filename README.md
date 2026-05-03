@@ -65,11 +65,11 @@ De abajo a arriba:
 
 * **Ubiquiti UniFi Express**
   * Firewall + punto de acceso WiFi 6
-  * [Producto](https://eu.store.ui.com/eu/es/category/cloud-gateways-wifi-integrated/products/ux7)
+  * [Producto](https://www.amazon.es/Ubiquiti-Ue7-UbiQuiti-UX7/dp/B0F8B2XW8Q)
 
 * **Ubiquiti USW Ultra 210W**
   * Switch gestionable de 8 puertos
-  * [Producto](https://eu.store.ui.com/eu/es/category/switching-utility/collections/pro-ultra/products/usw-ultra-210w)
+  * [Producto](https://www.amazon.es/Ubiquiti-USW-LITE-8-POE-UbiQuiti/dp/B08MBRKG2Q/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1JXRZR5U4HK3Y&dib=eyJ2IjoiMSJ9.Ki38Jr1tu2GKGsMs41UQ2bkczDgMY8E7Pj_Nfcjv7MSt2weCGILJd_fl_yiOUsFaJWcJdAQ2zH58hN26f33yPtTy-i2jdfjKoffDw7Sn7lYJmV3uOYn7ekdQ4trHqJ7nBR4XwG0VUXq7T7c-bxdbWGgZCPqjMrSMG_HCLf1cmZvT5IHBopE0KEf5dPW7nUwY294QWQ7w6cAeMldgB3fVUde6EISODgB3BrLJuhpLHD4c6wuOlEUDLj5dXRkIhjZudH6mR1HgiQ9gQx6Ktb28olkQprSaXZ_gDLIfWUufenw.PYSVzdFMfPImOun62rZ8gEmnsSD3nn3gxQZ7vZS8Y2s&dib_tag=se&keywords=unifi+usw+210&qid=1777835057&s=computers&sprefix=unifi+usw+210%2Ccomputers%2C81&sr=1-1&ufe=app_do%3Aamzn1.fos.4c3f56c3-e485-4a35-9abc-6532b61c3b62)
 
 * **Intel NUC12WSK (i5-1240P)**
 
