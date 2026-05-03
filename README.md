@@ -43,19 +43,12 @@ Este proyecto integra red, virtualización y control local en una única unidad 
   * [**Bambu Lab X1C**](https://bambulab.com/es/x1)
   * [**Bambu Lab P2S**](https://bambulab.com/es/p2s)
 
-### Materiales
+### Materiales y Colores:
 
-* [**PETG-HF Bambulab**](https://eu.store.bambulab.com/es/products/petg-hf?id=49068714590556) → base estructural (resistencia térmica)
-* [**PLA Basic Bambulab**](https://eu.store.bambulab.com/es/products/pla-basic-filament) → frontales y estética
-* [**PLA Silk Winkle**](https://winkle.shop/producto/filamento-pla-silk-winkle-175-mm-0300-kg-cobre-antiguo/) → frontales y estética
-* [**PLA Fluorescente Winkle**](https://winkle.shop/producto/filamento-pla-hd-fluorescente-winkle-175-mm-1-kg-amarillo-electrico/) → frontales y estética
-
-Colores:
-
-* Negro PETG-HF
-* Cobre Winkle
-* Amarillo neón
-* Azul cian
+* [**Negro PETG-HF Bambulab**](https://eu.store.bambulab.com/es/products/petg-hf?id=49068714590556) → base estructural (resistencia térmica)
+* [**Cobre Winkle PLA Silk Winkle**](https://winkle.shop/producto/filamento-pla-silk-winkle-175-mm-0300-kg-cobre-antiguo/) → frontales y estética
+* [**Amarillo neón PLA Silk Winkle**](https://winkle.shop/producto/filamento-pla-silk-winkle-175-mm-0300-kg-cobre-antiguo/) → frontales y estética
+* [**Azul cian PLA Basic Bambulab**](https://eu.store.bambulab.com/es/products/pla-basic-filament) → frontales y estética
 
 ---
 
