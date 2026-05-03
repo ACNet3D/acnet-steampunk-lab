@@ -1,10 +1,25 @@
 # ACNET Steampunk Lab
 
 > *Homelab modular impreso en 3D que combina red, virtualización y control integrado en un diseño inspirado en el steampunk.*
->
-> <p align="center">
+
+<p align="center">
   <img src="logo.png" width="400"/>
 </p>
+<p align="center">
+  <img src="rack_front.jpg" width="400"/>
+</p>
+
+---
+
+## ⚡ Resumen rápido
+
+- 🧱 Rack impreso en 3D totalmente personalizado  
+- 🌐 Red segmentada con VLANs y WiFi  
+- 🖥️ Virtualización con Proxmox  
+- 🧠 Nodo de control integrado (pantalla + Windows)  
+- 🚫 Bloqueo de publicidad con Pi-hole
+
+---
 
 ## 🧠 Descripción
 
@@ -188,22 +203,6 @@ Con apoyo de:
 
 Proyecto presentado en la **3D Printer Party**.
 
----
 
 
-* Grafana dashboards
-* Automation
-* Improved cable management
-* Version 2 of the rack
 
----
-
-## 📍 Context
-
-Showcased at the **3D Printer Party**.
-
----
-
-## ⭐ If you like it
-
-Feel free to star the repo!
