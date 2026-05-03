@@ -1,13 +1,13 @@
 # ACNET Steampunk Lab
 
-> *Homelab modular impreso en 3D que combina red, virtualización y control integrado en un diseño inspirado en el steampunk.*
-
 <p align="center">
   <img src="logo.png" width="400"/>
 </p>
 <p align="center">
   <img src="rack_front.jpg" width="400"/>
 </p>
+
+> *Homelab modular impreso en 3D que combina red, virtualización y control integrado en un diseño inspirado en el steampunk.*
 
 ---
 
