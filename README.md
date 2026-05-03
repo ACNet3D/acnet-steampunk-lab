@@ -31,7 +31,9 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 
 ## 📸 Vista general
 
-![Frontal](<img src="/rack_front.jpg" width="400">)
+<p align="center">
+  <img src="images/rack_front.jpg" width="400"/>
+</p>
 ![Interior](/rack_inside.jpg)
 ![Pantalla](images/lcd.jpg)
 
