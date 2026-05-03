@@ -40,18 +40,20 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 * Desarrollo apoyado por la comunidad **[SHARE HORIZONS](https://sharehorizons.com/)**
 * Impreso con:
 
-  * **Bambu Lab X1C**
-  * **Bambu Lab P2S**
+  * [**Bambu Lab X1C**](https://bambulab.com/es/x1)
+  * [**Bambu Lab P2S**](https://bambulab.com/es/p2s)
 
 ### Materiales
 
-* **PETG negro** → base estructural (resistencia térmica)
-* **PLA colores** → frontales y estética
+* [**PETG-HF Bambulab**](https://eu.store.bambulab.com/es/products/petg-hf?id=49068714590556) → base estructural (resistencia térmica)
+* [**PLA Basic Bambulab**](https://eu.store.bambulab.com/es/products/pla-basic-filament) → frontales y estética
+* [**PLA Silk Winkle**](https://winkle.shop/producto/filamento-pla-silk-winkle-175-mm-0300-kg-cobre-antiguo/) → frontales y estética
+* [**PLA Fluorescente Winkle**]([https://winkle.shop/producto/filamento-pla-silk-winkle-175-mm-0300-kg-cobre-antiguo/](https://winkle.shop/producto/filamento-pla-hd-fluorescente-winkle-175-mm-0300-kg-amarillo-electrico/)) → frontales y estética
 
 Colores:
 
-* Negro mate
-* Cobre
+* Negro PETG-HF
+* Cobre Winkle
 * Amarillo neón
 * Azul cian
 
@@ -121,17 +123,15 @@ El consumo total del ACNET Steampunk Lab depende principalmente de la carga del 
 
 ## 🌐 Red
 
-* **VLAN 1 – Principal**
+* **VLAN 1 – Default**
 
   * SSID: `ACNET_HOMELAB`
+  * Seguridad mediante firewall y Pi-Hole
 
-* **VLAN 20 – IT**
+* **VLAN 2 – Server**
 
-  * Solo cable (sin WiFi)
-
-* **VLAN 120 – Invitados**
-
-  * SSID: `ACNET_GUEST`
+  * Red Cableada
+  * Red de servidores y servicios de gestión
 
 Funciones:
 
@@ -149,7 +149,7 @@ En el NUC:
 * 🧱 **Pi-hole** (contenedor)
 * 📊 **Grafana** (contenedor – en preparación)
 * 🍏 **macOS VM**
-* 🪟 **Windows 11 LTSC**
+* 🪟 **Windows 11**
 
   * Salida directa a la pantalla LCD
   * Nodo de control del sistema
