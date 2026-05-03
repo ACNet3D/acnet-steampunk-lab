@@ -48,7 +48,7 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 * [**PETG-HF Bambulab**](https://eu.store.bambulab.com/es/products/petg-hf?id=49068714590556) → base estructural (resistencia térmica)
 * [**PLA Basic Bambulab**](https://eu.store.bambulab.com/es/products/pla-basic-filament) → frontales y estética
 * [**PLA Silk Winkle**](https://winkle.shop/producto/filamento-pla-silk-winkle-175-mm-0300-kg-cobre-antiguo/) → frontales y estética
-* [**PLA Fluorescente Winkle**]([https://winkle.shop/producto/filamento-pla-silk-winkle-175-mm-0300-kg-cobre-antiguo/](https://winkle.shop/producto/filamento-pla-hd-fluorescente-winkle-175-mm-0300-kg-amarillo-electrico/)) → frontales y estética
+* [**PLA Fluorescente Winkle**](https://winkle.shop/producto/filamento-pla-hd-fluorescente-winkle-175-mm-0300-kg-amarillo-electrico) → frontales y estética
 
 Colores:
 
