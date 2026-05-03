@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="logo.png" width="400"/>
-</p>
-<p align="center">
   <img src="rack_front.jpg" width="400"/>
 </p>
 
