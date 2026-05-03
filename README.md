@@ -71,6 +71,7 @@ De abajo a arriba:
 
   * 32GB RAM
   * 1TB NVMe
+  * [Soporte Intel](https://www.asus.com/es/supportonly/nuc12wsk/helpdesk_knowledge/)
   * Host de virtualización (Proxmox)
 
 * **Cudy LT300 4G Router**
