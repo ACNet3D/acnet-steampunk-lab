@@ -57,6 +57,9 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 <p align="center">
   <img src="montando1.jpg" width="250"/>
   <img src="montando2.jpg" width="250"/>
+ </p>
+
+<p align="center">
   <img src="montando3.jpg" width="250"/>
   <img src="montando4.jpg" width="250"/>
 </p>
