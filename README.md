@@ -3,7 +3,7 @@
 > *Homelab modular impreso en 3D que combina red, virtualización y control integrado en un diseño inspirado en el steampunk.*
 >
 > <p align="center">
-  <img src="logo.png" width="200"/>
+  <center img src="logo.png" width="400"/>
 </p>
 
 ---
