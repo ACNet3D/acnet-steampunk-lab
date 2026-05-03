@@ -69,7 +69,7 @@ De abajo a arriba:
 
 * **Ubiquiti USW Ultra 210W**
   * Switch gestionable de 8 puertos
-  * [Producto](https://eu.store.ui.com/eu/es/products/usw-ultra-210w)
+  * [Producto](https://eu.store.ui.com/eu/es/category/switching-utility/collections/pro-ultra/products/usw-ultra-210w)
 
 * **Intel NUC12WSK (i5-1240P)**
 
