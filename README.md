@@ -131,22 +131,61 @@ El consumo total del ACNET Steampunk Lab depende principalmente de la carga del 
 
 ## 🌐 Red
 
+El ACNET Steampunk Lab está diseñado con una arquitectura de red segmentada mediante VLANs, permitiendo aislar dispositivos, servicios y futuras ampliaciones.
+
+### 🧩 Esquema de red
+
+<p align="center">
+  <img src="esquema_red.png" width="800"/>
+</p>
+
+---
+
+### 🔌 Arquitectura
+
+* **Firewall / Router**
+
+  * Ubiquiti UniFi Express
+  * Gestión de VLANs, NAT, DHCP y WiFi
+
+* **Switch**
+
+  * Ubiquiti USW Ultra 210W
+  * Distribución de red cableada
+
+* **Backup WAN**
+
+  * Router 4G Cudy LT300
+  * Conectividad secundaria (failover)
+
+---
+
+### 🧠 Segmentación por VLAN
+
 * **VLAN 1 – Default**
 
-  * SSID: `ACNET_HOMELAB`
-  * Seguridad mediante firewall y Pi-Hole
+  * Red principal
+  * PCs cliente + WiFi (`ACNET_HOMELAB`)
 
-* **VLAN 2 – Server**
+* **VLAN 2 – Servidores**
 
-  * Red Cableada
-  * Red de servidores y servicios de gestión
+  * Infraestructura interna
+  * Proxmox, contenedores y máquinas virtuales
 
-Funciones:
+* **VLAN 254 – Gestión**
 
-* Segmentación por VLAN
-* Separación de redes WiFi
-* Enrutamiento centralizado
-* Bloqueo de publicidad con Pi-hole
+  * Reservada para administración futura
+  * Actualmente no utilizada
+
+---
+
+### ⚙️ Funcionalidades
+
+* Segmentación de red mediante VLANs
+* Separación de tráfico cliente / servidor
+* WiFi integrado en el firewall
+* Bloqueo de publicidad mediante Pi-hole
+* Arquitectura preparada para ampliaciones
 
 ---
 
