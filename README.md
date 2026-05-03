@@ -65,7 +65,7 @@ De abajo a arriba:
 
 * **Ubiquiti UniFi Express**
   * Firewall + punto de acceso WiFi 6
-  * [Producto](https://eu.store.ui.com/eu/es/products/ux)
+  * [Producto](https://eu.store.ui.com/eu/es/category/cloud-gateways-wifi-integrated/products/ux7)
 
 * **Ubiquiti USW Ultra 210W**
   * Switch gestionable de 8 puertos
