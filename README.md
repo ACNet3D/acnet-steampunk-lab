@@ -40,7 +40,7 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 ## 🏗️ Diseño e Impresión
 
 * Diseñado en **Onshape**
-* Desarrollo apoyado por la comunidad [**SHARE HORIZONS**](https://sharehorizons.com/)
+* Desarrollo apoyado por la comunidad **[SHARE HORIZONS](https://sharehorizons.com/)**
 * Impreso con:
 
   * **Bambu Lab X1C**
@@ -134,7 +134,7 @@ Proyecto desarrollado como parte de aprendizaje en:
 
 Con apoyo de:
 
-👉 [**SHARE HORIZONS**](https://sharehorizons.com/)
+👉 **[SHARE HORIZONS](https://sharehorizons.com/)**
 
 ---
 
@@ -159,49 +159,140 @@ Proyecto presentado en la **3D Printer Party**.
 
 ACNET Steampunk Lab is a compact and fully functional homelab built inside a custom 3D-printed rack, combining real infrastructure with a steampunk-inspired design.
 
-It integrates networking, virtualization and local control into a single standalone unit.
+This project integrates networking, virtualization and local control into a single standalone unit.
 
 ---
 
 ## 🔥 Highlights
 
-* 🧱 Fully custom **3D-printed structure**
+* 🧱 Fully custom **3D-printed structure** (PETG + PLA)
 * 🌐 Segmented network with **VLANs and SSIDs**
-* 🖥️ **Proxmox host**
-* 🧰 Integrated **control node (Windows + LCD)**
-* 🎨 Steampunk aesthetic with neon accents
-* 🚫 Network-wide ad blocking (Pi-hole)
+* 🖥️ **Proxmox server** running multiple services
+* 🧰 Integrated **control node (Windows 11 + LCD)**
+* 🎨 Steampunk design with **copper, matte black and neon accents**
+* 🚫 Network-wide ad blocking with **Pi-hole**
+
+---
+
+## 📸 Preview
+
+![Front](images/rack_front.jpg)
+![Interior](images/rack_inside.jpg)
+![LCD](images/lcd.jpg)
+
+---
+
+## 🏗️ Design & Manufacturing
+
+* Designed in **Onshape**
+* Developed with support from the **[SHARE HORIZONS](https://sharehorizons.com/)** community
+* Printed using:
+
+  * **Bambu Lab X1C**
+  * **Bambu Lab P2S**
+
+### Materials
+
+* **Black PETG** → structural base (heat resistant)
+* **Colored PLA** → front panels and aesthetic parts
+
+Color palette:
+
+* Matte black
+* Copper
+* Neon yellow
+* Cyan blue
 
 ---
 
 ## 🧰 Hardware
 
-* Ubiquiti UniFi Express (Firewall + AP)
-* Ubiquiti USW Ultra 210W
-* Intel NUC i5-1240P (32GB / 1TB)
-* Cudy LT300 4G Router (WiFi disabled)
-* LCD display (USB-HDMI)
+From bottom to top:
+
+* **Ubiquiti UniFi Express** (Firewall + WiFi 6 AP)
+* **Ubiquiti USW Ultra 210W** (switch)
+* **Intel NUC i5-1240P**
+
+  * 32GB RAM
+  * 1TB NVMe
+* **Cudy LT300 4G Router** (WiFi disabled)
+* **LCD Display** (USB → HDMI)
 
 ---
 
 ## 🌐 Network
 
-* VLAN 1 – Main (`ACNET_HOMELAB`)
-* VLAN 20 – IT (wired only)
-* VLAN 120 – Guest (`ACNET_GUEST`)
+* **VLAN 1 – Main**
+
+  * SSID: `ACNET_HOMELAB`
+
+* **VLAN 20 – IT**
+
+  * Wired only (no WiFi)
+
+* **VLAN 120 – Guest**
+
+  * SSID: `ACNET_GUEST`
+
+Features:
+
+* VLAN segmentation
+* WiFi separation
+* Centralized routing
+* Ad blocking with Pi-hole
 
 ---
 
-## 🖥️ Server
+## 🖥️ Server (Proxmox)
 
-* Pi-hole (container)
-* Grafana (planned)
-* macOS VM
-* Windows 11 LTSC (local control)
+Running on the Intel NUC:
+
+* 🧱 **Pi-hole** (container)
+* 📊 **Grafana** (container – planned)
+* 🍏 **macOS VM**
+* 🪟 **Windows 11 LTSC**
+
+  * Direct output to the LCD
+  * Used as local control node
 
 ---
 
-## 📍 About
+## 🧪 Integrated Control Node
+
+The lab includes a built-in control system:
+
+* Windows 11 connected to:
+
+  * LCD display
+  * External keyboard & mouse
+* Enables full **local management directly from the rack**
+
+---
+
+## 🎓 Learning & Community
+
+This project was developed as part of a learning journey in:
+
+* 3D design (Onshape)
+* Networking & segmentation
+* Virtualization (Proxmox)
+
+With support from:
+
+👉 **[SHARE HORIZONS](https://sharehorizons.com/)**
+
+---
+
+## 🚀 Future Improvements
+
+* Grafana dashboards
+* Automation
+* Improved cable management
+* Version 2 of the rack
+
+---
+
+## 📍 Context
 
 Showcased at the **3D Printer Party**.
 
