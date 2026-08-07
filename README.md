@@ -64,6 +64,18 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 
 ---
 
+## 📸 En la Printer Party 2026
+
+<p align="center">
+  <img src="20260508_152124482_iOS.jpg" width="250"/>
+  <img src="20260508_152131051_iOS.jpg" width="250"/>
+  <img src="20260508_171040596_iOS.jpg" width="250"/>
+  <img src="20260508_171051749_iOS.jpg" width="250"/>
+  <img src="20260508_171052763_iOS.jpg" width="250"/>
+</p>
+
+---
+
 ## 🏗️ Diseño e Impresión
 
 * Diseñado en [**Onshape**](https://onshape.pro/sharehorizons)
