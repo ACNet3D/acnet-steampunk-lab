@@ -68,11 +68,11 @@ Este proyecto integra red, virtualización y control local en una única unidad 
 
 <p align="center">
   <img src="20260508_152131051_iOS.jpg" width="250"/>
-  <img src="20260508_171040596_iOS.jpg" width="350"/>
+  <img src="20260508_171040596_iOS.jpg" width="325"/>
 </p>
  
 <p align="center">
-  <img src="20260508_152124482_iOS.jpg" width="400"/>
+  <img src="20260508_152124482_iOS.jpg" width="500"/>
   <img src="20260508_171051749_iOS.jpg" width="400"/>
 </p>
 
